@@ -1,0 +1,1 @@
+web: gunicorn inf_file:app
